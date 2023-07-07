@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Junaid</h1>
 <h3 align="center">A Passionate Android Developer From Karachi, Pakistan</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=junaidkhan8&label=Profile%20views&color=0e75b6&style=flat" alt="junaidkhan8" /> </p>
+
 - 🔭 I’m currently working on **Timezone App**
 
 - 🌱 I’m currently learning **Advance Level Flutter**
